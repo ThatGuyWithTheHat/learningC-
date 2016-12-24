@@ -10,9 +10,9 @@ It is a learning experience after all. Probably bellow you but a good pace for m
 
 Task List **Programming Principles and Practice Using C++**
 
-- [ ] *Chapter 1* Basic Bullshit I already know
-- [ ] *Chapter 2* Hello, world
-- [ ] *Chapter 3* Objects, Types, and Values
+- [x] *Chapter 1* Basic Bullshit I already know
+- [x] *Chapter 2* Hello, world
+- [x] *Chapter 3* Objects, Types, and Values
 - [ ] *Chapter 4* Computation
 - [ ] *Chapter 5* Errors
 - [ ] *Chapter 6* Writing a Program
